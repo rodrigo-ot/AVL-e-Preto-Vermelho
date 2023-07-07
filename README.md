@@ -1,2 +1,5 @@
-# AVL-e-Preto-Vermelho
-Árvore AVL E Preto-vermelho
+# Como Executar  
+Certifique-se de ter o Java JDK instalado em sua máquina.  
+Abra o arquivo Main.java  
+Configure a String Input na classe Main com o caminho do arquivo que será transformado em árvore  
+Execute o arquivo Main.java  
