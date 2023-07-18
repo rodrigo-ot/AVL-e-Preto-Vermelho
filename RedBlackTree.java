@@ -62,7 +62,6 @@ public class RedBlackTree {
                     node.parent.isRed = false;
                     node.parent.parent.isRed = true;
                     rotateRight(node.parent.parent);
-                    rotationCount++;
                 }
             } else {
                 Node uncle = node.parent.parent.left;
